@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "userName": "Artem",
+    "userSurname": "Shimanchuk",
+    "userPassword": "123456789",
+    "userEmail": "shimart0606@mail.ru"
+  },
+  {
+    "id": "2",
+    "userName": "Ivan",
+    "userSurname": "Semashko",
+    "userPassword": "i0011",
+    "userEmail": "ivanSemashho@mail.ru"
+  },
+  {
+    "id": "3",
+    "userName": "Arseniy",
+    "userSurname": "Komar",
+    "userPassword": "ars12345",
+    "userEmail": "ars01@mail.ru"
+  },
+  {
+    "id": "4",
+    "userName": "Misha",
+    "userSurname": "Bob",
+    "userPassword": "bob9876",
+    "userEmail": "BobCrypto@mail.ru"
+  },
+  {
+    "id": "5",
+    "userName": "Egor",
+    "userSurname": "Sosnovski",
+    "userPassword": "egor111_222",
+    "userEmail": "egorShpaga@mail.ru"
+  }
+]
